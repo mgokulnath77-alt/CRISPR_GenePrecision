@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
-  <img src="https://img.shields.io/badge/React-18.0-61dafb.svg?logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-Backend-000000.svg?logo=flask" alt="Flask">
+  <img src="./frontend/src/assets/hero.png" alt="CRISPR GenePrecision Preview" width="800">
   
   <br/>
   
