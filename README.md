@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="./frontend/src/assets/hero.png" alt="CRISPR GenePrecision Preview" width="800">
-  
-  <br/>
+![Uploading Screenshot 2026-06-21 144250.png…]()
+
   
   <h1>🧬 CRISPR GenePrecision</h1>
   <p><b>Next-Generation Genomic Analysis & gRNA Design Engine</b></p>
