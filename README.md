@@ -1,6 +1,6 @@
-![Uploading Screenshot 2026-06-21 144250.png…]()
+<img width="1672" height="873" alt="Screenshot 2026-06-21 144250" src="https://github.com/user-attachments/assets/3e566724-28b9-4995-ac0d-85697fa5cac9" />
 
-  
+
   <h1>🧬 CRISPR GenePrecision</h1>
   <p><b>Next-Generation Genomic Analysis & gRNA Design Engine</b></p>
 </div>
@@ -88,6 +88,8 @@ npm run dev
 3. The platform parses the sequence for valid `NGG` PAM loci.
 4. Hundreds of candidate 20-nucleotide targets are extracted and passed through the scoring algorithms.
 5. The frontend displays the results across highly-detailed data tables and final ranking matrices.
+
+APP URL :https://crispr-cas09.netlify.app/
 
 <div align="center">
   <i>Developed with precision for Bioinformatics Research and Exploration.</i>
